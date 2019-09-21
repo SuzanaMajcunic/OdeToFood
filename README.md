@@ -20,7 +20,14 @@ ASP.NET MVC application for restaurants (ASP.NET MVC 5 Fundamentals course on Pl
 - Configuring the Autofac Inversion of Controler Container
 
 **Module 3**: Understanding MVC Controllers
-- To be continued... 
+- Applying the MVC Design Pattern
+- Working with query string
+- Understanding MVC and API Controllers
+- Installing and configuring Web API
+- Building a Restaurant API
+- Scaffolding a Restaurant List
+- Scaffolding Restaurant Details
+- Working with Action Results
 
 **Module 4**: Using MVC Models
 - To be continued... 
