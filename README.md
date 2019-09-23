@@ -40,7 +40,12 @@ ASP.NET MVC application for restaurants (ASP.NET MVC 5 Fundamentals course on Pl
 - Implementing the Edit Action
 
 **Module 5**: Using Entity Framework in MVC Applications
-- To be continued... 
+- Introducing the Entity Framework
+- Working with SQL Server LocalDB
+- Installing and configuring the Entity Framework
+- Defining a DbContext
+- Creating a Data Access Service
+- TODO
 
 **Module 6**: Razor Views
 - To be continued... 
