@@ -30,7 +30,14 @@ ASP.NET MVC application for restaurants (ASP.NET MVC 5 Fundamentals course on Pl
 - Working with Action Results
 
 **Module 4**: Using MVC Models
-- To be continued... 
+- Understanding Models and View Models
+- Setting up a Create View
+- Working with Enums
+- Implementing the Create Action
+- Validating Models and Model State
+- Validating Models with Data Annotations
+- Following the POST-Redirect-GET pattern
+- Implementing the Edit Action
 
 **Module 5**: Using Entity Framework in MVC Applications
 - To be continued... 
