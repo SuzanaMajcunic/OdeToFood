@@ -45,7 +45,9 @@ ASP.NET MVC application for restaurants (ASP.NET MVC 5 Fundamentals course on Pl
 - Installing and configuring the Entity Framework
 - Defining a DbContext
 - Creating a Data Access Service
-- TODO
+- Configuring a DbContext
+- Exploring the New Database
+- Implementing a Delete feature
 
 **Module 6**: Razor Views
 - To be continued... 
