@@ -26,6 +26,15 @@ namespace OdeToFood.Data.Services
             restaurants.Add(restaurant); // temporary in memory!
         }
 
+        public void Delete(int id)
+        {
+            var restaurant = Get(id);
+            if (restaurant != null)
+            {
+                restaurants.Remove(restaurant);
+            }
+        }
+
         public Restaurant Get(int id)
         {
             // get reference on first value or get default (NULL) value

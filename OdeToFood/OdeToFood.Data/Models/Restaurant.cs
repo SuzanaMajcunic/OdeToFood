@@ -12,7 +12,7 @@ namespace OdeToFood.Data.Models
     {
         public int Id { get; set; }
 
-        [Required] // EF - attribute in table is nullable
+        [Required] // EF - attribute in table is not nullable
         [MaxLength(255)]
         public string Name { get; set; }
 
