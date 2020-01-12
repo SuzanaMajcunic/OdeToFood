@@ -2,7 +2,7 @@
 ASP.NET MVC application for restaurants (ASP.NET MVC 5 Fundamentals course on Pluralsight)
 
 #### Introduction
- The result of this project is ASP.NET web application for saving the list of restaurant by cousine. Link to the Pluralsight course: [ASP.NET MVC 5 Fundamentals](https://www.pluralsight.com/courses/aspdotnet-mvc5-fundamentals "ASP.NET MVC 5 Fundamentals") 
+ The result of this project is ASP.NET web application for saving the list of restaurants by cousine type. Link to the Pluralsight course: [ASP.NET MVC 5 Fundamentals](https://www.pluralsight.com/courses/aspdotnet-mvc5-fundamentals "ASP.NET MVC 5 Fundamentals") 
 
 **Module 1**: Creating a New ASP.NET MVC Application
 - Creating a Blank Solution
