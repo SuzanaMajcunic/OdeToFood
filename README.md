@@ -66,4 +66,10 @@ ASP.NET MVC application for restaurants (ASP.NET MVC 5 Fundamentals course on Pl
 - Creating Singe Page Apps
 
 **Module 8**: Deploying ASP.NET MVC Applications
-- To be continued... 
+- Evaluating the Deployment Options
+- Installing Web Server Software
+- Publishing Apps with Visual Studio
+- Creating an IIS Website
+- Configuring ASP.NET for Production
+- Configuring a SQL Server Login
+- Running in Production
