@@ -87,6 +87,8 @@ namespace OdeToFood.Web.Controllers
             if(ModelState.IsValid)
             {
                 db.Update(restaurant);
+                // Passing Data across Requests with TempData (see _Layout.cshtml)
+                TempData["Message"] = "You have saved the restaurant!";
                 return RedirectToAction("Details", new { id = restaurant.Id });
             }
             return View(restaurant);

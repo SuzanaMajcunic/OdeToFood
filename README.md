@@ -50,10 +50,20 @@ ASP.NET MVC application for restaurants (ASP.NET MVC 5 Fundamentals course on Pl
 - Implementing a Delete feature
 
 **Module 6**: Razor Views
-- To be continued... 
+- Understanding Razor Sytnax
+- Managing Page Structure with Layout Views
+- Settings Layout Defaults wiht _ViewStart
+- Using the ViewBag
+- Adding Flexibility with Layout Sections
+- Reusing HTML with Partial Views
+- Passing Data across Requests with TempData
 
 **Module 7**: Front End Frameworks
-- To be continued... 
+- Managing Client Libraries
+- Bundling Client Assets
+- Enforcing Client Validation
+- Enabling Client Validation
+- Creating Singe Page Apps
 
 **Module 8**: Deploying ASP.NET MVC Applications
 - To be continued... 
